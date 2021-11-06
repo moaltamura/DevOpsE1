@@ -1,11 +1,11 @@
 
 # DEV-OPS TP-Práctica
 
-Equipo1
+Equipo 1
 
 Requerimiento 1
 
-**Información sobre los integrantes del equip**
+**Información sobre los integrantes del equipo**
 
 1. Diego Alejandro Pacheco
 - dapacheco.87@gmail.com
@@ -15,8 +15,8 @@ Requerimiento 1
 
 1. Nicolás Migueles
 - me@nmigueles.dev
-- no tiene
-- Backend enginee
+- https://www.linkedin.com/in/nicolas-migueles-1a9566189
+- Backend engineer
 - Cloud Devops (Docker,Kubernetes y Jenkins)
 
 3. Marcos Contreras
