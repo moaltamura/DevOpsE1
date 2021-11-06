@@ -66,3 +66,9 @@ Requerimiento 1
 - https://www.linkedin.com/in/emanuelodstrcil/
 - Project Leader - Full Stack
 - Cloud Devops (Docker,Kubernetes y Jenkins)
+
+11. Oscarina Hernandez
+- ing.oscarina@gmail.com
+- https://www.linkedin.com/in/ing-oscarina-hernandez/
+- Lider tecnico Dowstream-YPF
+- Cloud Devops (Docker,Kubernetes y Jenkins)
